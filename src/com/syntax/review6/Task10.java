@@ -1,6 +1,4 @@
-package review6;
-
-import java.util.Arrays;
+package com.syntax.review6;
 
 public class Task10 {
     public static void main(String[] args) {

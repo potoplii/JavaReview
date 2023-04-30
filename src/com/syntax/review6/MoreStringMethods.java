@@ -1,4 +1,4 @@
-package review6;
+package com.syntax.review6;
 
 public class MoreStringMethods {
     public static void main(String[] args) {

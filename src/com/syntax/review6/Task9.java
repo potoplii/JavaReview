@@ -1,4 +1,4 @@
-package review6;
+package com.syntax.review6;
 
 import java.util.Arrays;
 
